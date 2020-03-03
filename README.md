@@ -7,6 +7,8 @@ Q. Liu, J. Liu, P. Dong, D. Liang. SGTD: Structure gradient and texture decorrel
 The IEEE International Conference on Computer Vision (ICCV), 1081-1088, 2013.
 
 
+## Demonstration of SGTD
+![](./result1.png)  
 
 
 ## Other Related Projects
