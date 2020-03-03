@@ -9,6 +9,7 @@ The IEEE International Conference on Computer Vision (ICCV), 1081-1088, 2013.
 
 ## Demonstration of SGTD
 ![](./result1.png)  
+One example of SGTD. Left: Input image, Middle: Cartoon component, Right: Texture component.
 
 
 ## Other Related Projects
